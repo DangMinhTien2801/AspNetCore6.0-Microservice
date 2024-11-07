@@ -5,11 +5,11 @@ services:
   orderdb:
     container_name: orderdb
     environment:
-        SA_PASSWORD: "TienHaui@1234"
+        SA_PASSWORD: "TienHaui@2801"
         ACCEPT_EULA: "Y"
     restart: always
     volumes:
-        - sqlserver_data:/var/lib/sqlserver/data
+        - sqlserver_data_msv:/var/lib/sqlserver/data
     ports:
         - "1434:1433"
 
@@ -17,25 +17,25 @@ services:
   productdb:
     container_name: productdb
     environment:
-        MYSQL_ROOT_PASSWORD: "TienHaui@1234"
+        MYSQL_ROOT_PASSWORD: "TienHaui@2801"
     restart: always
     volumes:
-        - mysql_data:/var/lib/mysql
+        - mysql_data_msv:/var/lib/mysql
     ports:
-        - "3308:3306"
+        - "3306:3306"
  
   #customerdb: postgres
   customerdb:
     container_name: customerdb
     environment:
       - POSTGRES_USER=admin
-      - POSTGRES_PASSWORD=TienHaui@1234
+      - POSTGRES_PASSWORD=TienHaui@2801
       - POSTGRES_DB=CustomerDb
     restart: always
     ports:
       - "5432:5432"
     volumes:
-      - postgres_data:/var/lib/postgresql/data
+      - postgres_data_msv:/var/lib/postgresql/data
     
   #basketdb: redis
   basketdb:
@@ -51,7 +51,7 @@ services:
     ports:
       - "27017:27017"
     volumes:
-      - mongo_data:/data/db
+      - mongo_data_msv:/data/db
 
   #infrastructure section
   
@@ -66,12 +66,12 @@ services:
     container_name: pgadmin
     environment:
       - PGADMIN_DEFAULT_EMAIL=mtien280168@gmail.com
-      - PGADMIN_DEFAULT_PASSWORD=TienHaui@1234
+      - PGADMIN_DEFAULT_PASSWORD=TienHaui@2801
     restart: always
     ports:
       - "5050:80"
     volumes:
-      - pgadmin_data:/root/.pgadmin
+      - pgadmin_data_msv:/root/.pgadmin
     
   portainer:
     container_name: portainer
@@ -81,7 +81,7 @@ services:
       - "9000:9000"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - portainer_data:/data
+      - portainer_data_msv:/data
   
   elasticsearch:
     container_name: elasticsearch
@@ -96,7 +96,7 @@ services:
     ports:
       - "9200:9200"
     volumes:
-      - elasticsearch_data:/usr/share/elasticsearch/data
+      - elasticsearch_data_msv:/usr/share/elasticsearch/data
   
   kibana:
     container_name: kibana
@@ -115,7 +115,7 @@ services:
     environment:
         - ASPNETCORE_ENVIRONMENT=Development
         - ASPNETCORE_URLS=http://+:80
-        - "ConnectionStrings:DefaultConnectionString=Server=productdb;Port=3306;Database=ProductDB;Uid=root;Pwd=TienHaui@1234;"
+        - "ConnectionStrings:DefaultConnectionString=Server=productdb;Port=3306;Database=ProductDB;Uid=root;Pwd=TienHaui@2801;"
     depends_on:
         - productdb
     ports:
@@ -127,7 +127,7 @@ services:
     environment:
         - ASPNETCORE_ENVIRONMENT=Development
         - ASPNETCORE_URLS=http://+:80
-        - "ConnectionStrings:DefaultConnectionString=Server=customerdb;Port=5432;Database=CustomerDb;User Id=admin;Password=TienHaui@1234"
+        - "ConnectionStrings:DefaultConnectionString=Server=customerdb;Port=5432;Database=CustomerDb;User Id=admin;Password=TienHaui@2801"
     depends_on:
         - customerdb
     ports:
@@ -151,7 +151,7 @@ services:
     environment:
         - ASPNETCORE_ENVIRONMENT=Development
         - ASPNETCORE_URLS=http://+:80
-        - "ConnectionStrings:DefaultConnectionString=Server=orderdb;Database=OrderDb;User Id=SA;Password=TienHaui@1234;Multipleactiveresultsets=true"
+        - "ConnectionStrings:DefaultConnectionString=Server=orderdb;Database=OrderDb;User Id=SA;Password=TienHaui@2801;Multipleactiveresultsets=true"
     depends_on:
         - orderdb
     ports:
