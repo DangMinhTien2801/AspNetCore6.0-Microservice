@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Basket.Api.props" />
+</Project>

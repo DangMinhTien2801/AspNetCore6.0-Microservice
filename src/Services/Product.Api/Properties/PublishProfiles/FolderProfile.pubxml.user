@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\LENOVO\OneDrive\Documents\Wordspace\VIA\Kostos\Product_API</_PublishTargetUrl>
+    <History>True|2024-11-01T04:33:10.5178822Z;True|2024-11-01T11:27:46.9659406+07:00;True|2024-11-01T11:00:51.7678600+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnectionString">
+      <Value>Server=localhost%3bPort=3308%3bDatabase=ProductDB%3bUid=root%3bPwd=TienHaui%401234%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

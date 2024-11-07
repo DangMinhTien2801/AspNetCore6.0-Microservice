@@ -1,0 +1,12 @@
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net6.0\Common.Logging.deps.json
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net6.0\Common.Logging.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net6.0\Common.Logging.pdb
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\refint\Common.Logging.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.pdb
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\ref\Common.Logging.dll

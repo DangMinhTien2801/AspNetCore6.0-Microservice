@@ -1,0 +1,17 @@
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\net6.0\Ordering.Domain.deps.json
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\net6.0\Ordering.Domain.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\net6.0\Ordering.Domain.pdb
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\refint\Ordering.Domain.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.pdb
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\ref\Ordering.Domain.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\net6.0\Contracts.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\net6.0\Contracts.pdb
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\net6.0\Shared.dll
+C:\Users\LENOVO\OneDrive\Documents\Wordspace\AspNet\MicroService\aspnetcore-microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\net6.0\Shared.pdb
