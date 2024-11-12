@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
-Log.Information("Start Product API up");
+Log.Information($"Start {builder.Environment.ApplicationName} up");
 try
 {
     builder.Host.UseSerilog(Serilogger.Configure);
@@ -36,6 +36,6 @@ catch(Exception ex)
 }
 finally
 {
-    Log.Information("Shut down Product API complete");
+    Log.Information($"Shut down {builder.Environment.ApplicationName} complete");
     Log.CloseAndFlush();
 }

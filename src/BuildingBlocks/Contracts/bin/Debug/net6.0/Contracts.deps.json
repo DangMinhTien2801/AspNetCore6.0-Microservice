@@ -352,7 +352,10 @@
           "Microsoft.Extensions.Caching.StackExchangeRedis": "6.0.32"
         },
         "runtime": {
-          "Shared.dll": {}
+          "Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

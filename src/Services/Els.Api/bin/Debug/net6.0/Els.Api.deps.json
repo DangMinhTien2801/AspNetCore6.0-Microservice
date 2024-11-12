@@ -612,7 +612,10 @@
           "Serilog.Sinks.Elasticsearch": "9.0.3"
         },
         "runtime": {
-          "Common.Logging.dll": {}
+          "Common.Logging.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
