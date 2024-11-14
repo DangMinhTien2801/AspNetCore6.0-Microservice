@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\protos\\stock.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:protos\\stock.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\inventory.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:inventory.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\entities\\inventoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:entities\\inventoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\repositories\\interfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:repositories\\interfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\inventory.grpc\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E7D3E3-0F99-448B-ADC8-EDE1E141EE84}|Inventory.Grpc.csproj|solutionrelative:extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:00:56.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stock.proto",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Protos\\stock.proto",
+              "RelativeDocumentMoniker": "Protos\\stock.proto",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Protos\\stock.proto",
+              "RelativeToolTip": "Protos\\stock.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-11-14T08:23:28.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Repositories\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Repositories\\InventoryRepository.cs",
+              "RelativeToolTip": "Repositories\\InventoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:00:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Repositories\\Interfaces\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IInventoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Repositories\\Interfaces\\IInventoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IInventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:59:25.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:53:40.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T03:51:49.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Entities\\InventoryEntry.cs",
+              "RelativeDocumentMoniker": "Entities\\InventoryEntry.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Entities\\InventoryEntry.cs",
+              "RelativeToolTip": "Entities\\InventoryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:41:38.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.Grpc",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Inventory.Grpc.csproj",
+              "RelativeDocumentMoniker": "Inventory.Grpc.csproj",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Inventory.Grpc.csproj",
+              "RelativeToolTip": "Inventory.Grpc.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T02:40:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\Inventory.Grpc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:39:20.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
