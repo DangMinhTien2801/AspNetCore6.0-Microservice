@@ -16,6 +16,9 @@ services:
 
   inventorydb:
     image: mongo
+
+  hangfiredb:
+    image: mongo
     
   #infrastructure section
   rabbitmq:
@@ -88,3 +91,5 @@ volumes:
     name: mongo_data_msv
   pgadmin_data_msv:
     name: pgadmin_data_msv
+  hangfire_mongo_data_msv:
+    name: hangfire_mongo_data_msv

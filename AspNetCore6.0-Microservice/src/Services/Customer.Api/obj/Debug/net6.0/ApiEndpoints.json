@@ -1,0 +1,129 @@
+[
+  {
+    "ContainingType": "Customer.Api.Controllers.CustomersController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCustomersAPI\u003Eb__0_0",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Customer.Api.Controllers.CustomersController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCustomersAPI\u003Eb__0_1",
+    "RelativePath": "api/v1/customers",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Customer.Api.Controllers.CustomersController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCustomersAPI\u003Eb__0_3",
+    "RelativePath": "api/v1/customers",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CreateCustomerDto",
+        "Type": "Shared.DTOs.Customer.CreateCustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Customer.Api.Controllers.CustomersController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCustomersAPI\u003Eb__0_4",
+    "RelativePath": "api/v1/customers/{customerId}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "UpdateCustomerDto",
+        "Type": "Shared.DTOs.Customer.UpdateCustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Customer.Api.Controllers.CustomersController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCustomersAPI\u003Eb__0_5",
+    "RelativePath": "api/v1/customers/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Customer.Api.Controllers.CustomersController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCustomersAPI\u003Eb__0_2",
+    "RelativePath": "api/v1/customers/{username}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,4 +1,5 @@
-﻿using Inventory.Api.Persistence;
+﻿using Hangfire;
+using Inventory.Api.Persistence;
 using MongoDB.Driver;
 using Shared.Configurations;
 

@@ -3,32 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\basket.api\\proton\\stock.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|solutionrelative:src\\services\\basket.api\\proton\\stock.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5DBAFF03-B474-4EBB-914E-06E86CDE6C6C}|Solution Items{5DBAFF03-B474-4EBB-914E-06E86CDE6C6C}|C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5DBAFF03-B474-4EBB-914E-06E86CDE6C6C}|Solution Items{5DBAFF03-B474-4EBB-914E-06E86CDE6C6C}|solutionrelative:src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|solutionrelative:src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5DBAFF03-B474-4EBB-914E-06E86CDE6C6C}|Solution Items{5DBAFF03-B474-4EBB-914E-06E86CDE6C6C}|C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5DBAFF03-B474-4EBB-914E-06E86CDE6C6C}|Solution Items{5DBAFF03-B474-4EBB-914E-06E86CDE6C6C}|solutionrelative:src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\basket.api\\grpcservices\\stockitemgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|solutionrelative:src\\services\\basket.api\\grpcservices\\stockitemgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\customer.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\customer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|solutionrelative:src\\services\\inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|solutionrelative:src\\services\\inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\shared\\configurations\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\hangfire.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|solutionrelative:src\\services\\hangfire.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\hangfire.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|solutionrelative:src\\services\\hangfire.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\customer.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\hangfire.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|solutionrelative:src\\services\\hangfire.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\hangfire.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|solutionrelative:src\\services\\hangfire.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\infrastructure\\scheduled.jobs\\hangfireextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\scheduled.jobs\\hangfireextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\customer.api\\customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9836B3FE-2BCD-49DF-B94B-6EE477C1245F}|src\\Services\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer.api\\customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\hangfire.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|solutionrelative:src\\services\\hangfire.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\hangfire.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{340ADAC4-F203-4DCB-B0D8-7E26DAB426F7}|src\\Services\\Hangfire.Api\\Hangfire.Api.csproj|solutionrelative:src\\services\\hangfire.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|solutionrelative:src\\services\\inventory.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\infrastructure\\configurations\\smtpemailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\configurations\\smtpemailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|solutionrelative:src\\services\\inventory.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|solutionrelative:src\\services\\inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\shared\\configurations\\hangfiresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\hangfiresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\shared\\configurations\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|solutionrelative:src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\basket.api\\proton\\stock.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|solutionrelative:src\\services\\basket.api\\proton\\stock.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\basket.api\\grpcservices\\stockitemgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87994F7-161B-4AC0-B3A7-19C89F1CEB2A}|src\\Services\\Basket.Api\\Basket.Api.csproj|solutionrelative:src\\services\\basket.api\\grpcservices\\stockitemgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\shared\\configurations\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\inventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -37,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\infrastructure\\common\\models\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\common\\models\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|solutionrelative:src\\services\\inventory.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\entities\\inventoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\services\\inventory.api\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D286839-87B6-4919-BD5A-9CA3FDB7F70C}|src\\Services\\Inventory.Api\\Inventory.Api.csproj|solutionrelative:src\\services\\inventory.api\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\shared\\configurations\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4D78548-514E-45B7-B92B-3DCFB15E83EC}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{660A9665-B8D7-4711-9447-BCACF2CC9F9A}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|c:\\users\\admn\\documents\\wordspace\\aspnetcore6.0-microservice\\aspnetcore6.0-microservice\\src\\buildingblocks\\infrastructure\\common\\repositories\\repositorybaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,7 +190,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 541,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -129,59 +201,59 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "stock.proto",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\Proton\\stock.proto",
-              "RelativeDocumentMoniker": "src\\Services\\Basket.Api\\Proton\\stock.proto",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\Proton\\stock.proto",
-              "RelativeToolTip": "src\\Services\\Basket.Api\\Proton\\stock.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-11-14T09:51:52.175Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StockItemGrpcService.cs",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\GrpcServices\\StockItemGrpcService.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Basket.Api\\GrpcServices\\StockItemGrpcService.cs",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\GrpcServices\\StockItemGrpcService.cs",
-              "RelativeToolTip": "src\\Services\\Basket.Api\\GrpcServices\\StockItemGrpcService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.Api\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Customer.Api\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T09:29:57.256Z",
+              "WhenOpened": "2024-11-18T08:14:44.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Basket.Api",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\Basket.Api.csproj",
-              "RelativeDocumentMoniker": "src\\Services\\Basket.Api\\Basket.Api.csproj",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\Basket.Api.csproj",
-              "RelativeToolTip": "src\\Services\\Basket.Api\\Basket.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-14T09:26:09.857Z",
+              "DocumentIndex": 10,
+              "Title": "HostExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Extensions\\HostExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.Api\\Extensions\\HostExtensions.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Extensions\\HostExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Customer.Api\\Extensions\\HostExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:36:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Services\\Hangfire.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T08:00:42.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Inventory.Api",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Inventory.Api.csproj",
-              "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Inventory.Api.csproj",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Inventory.Api.csproj",
-              "RelativeToolTip": "src\\Services\\Inventory.Api\\Inventory.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-14T03:44:08.519Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Inventory.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:48:01.234Z",
               "EditorCaption": ""
             },
             {
@@ -199,124 +271,280 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InventoryDbSeed.cs",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Persistence\\InventoryDbSeed.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Persistence\\InventoryDbSeed.cs",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Persistence\\InventoryDbSeed.cs",
-              "RelativeToolTip": "src\\Services\\Inventory.Api\\Persistence\\InventoryDbSeed.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Customer.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:13:40.311Z",
+              "WhenOpened": "2024-11-18T08:13:41.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "src\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\docker-compose.yml",
+              "RelativeToolTip": "src\\docker-compose.yml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-18T07:02:21.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "src\\docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "src\\docker-compose.override.yml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-18T07:29:01.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Services\\Customer.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T08:11:50.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Customer.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T08:11:49.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Hangfire.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T08:47:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.Api\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Hangfire.Api\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:06:33.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HostExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Extensions\\HostExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.Api\\Extensions\\HostExtensions.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Extensions\\HostExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Hangfire.Api\\Extensions\\HostExtensions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:14:03.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HangfireExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Scheduled.Jobs\\HangfireExtensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Scheduled.Jobs\\HangfireExtensions.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Scheduled.Jobs\\HangfireExtensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Scheduled.Jobs\\HangfireExtensions.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswFkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:32:02.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.Api",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Customer.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.Api\\Customer.Api.csproj",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Customer.Api.csproj",
+              "RelativeToolTip": "src\\Services\\Customer.Api\\Customer.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T08:14:17.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Hangfire.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:31:00.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Extensions\\ServiceExtensions.cs",
               "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Extensions\\ServiceExtensions.cs",
               "RelativeToolTip": "src\\Services\\Inventory.Api\\Extensions\\ServiceExtensions.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T03:13:27.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "HostExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Extensions\\HostExtensions.cs",
               "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Extensions\\HostExtensions.cs",
               "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Extensions\\HostExtensions.cs",
               "RelativeToolTip": "src\\Services\\Inventory.Api\\Extensions\\HostExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T03:09:15.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Shared\\Configurations\\MongoDbSettings.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Configurations\\MongoDbSettings.cs",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Shared\\Configurations\\MongoDbSettings.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Configurations\\MongoDbSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:00:52.378Z",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Hangfire.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T10:30:12.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MongoDbRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\MongoDbRepository.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\MongoDbRepository.cs",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\MongoDbRepository.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\MongoDbRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "SmtpEmailSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Configurations\\SmtpEmailSetting.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Configurations\\SmtpEmailSetting.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Configurations\\SmtpEmailSetting.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Configurations\\SmtpEmailSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T02:52:10.148Z",
+              "WhenOpened": "2024-11-18T03:28:32.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InventoryEntry.cs",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Entities\\InventoryEntry.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Entities\\InventoryEntry.cs",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Entities\\InventoryEntry.cs",
-              "RelativeToolTip": "src\\Services\\Inventory.Api\\Entities\\InventoryEntry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T02:48:50.648Z",
+              "DocumentIndex": 18,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T03:31:19.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\Inventory.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:48:01.234Z",
+              "DocumentIndex": 27,
+              "Title": "Inventory.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Inventory.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Inventory.Api.csproj",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Inventory.Api.csproj",
+              "RelativeToolTip": "src\\Services\\Inventory.Api\\Inventory.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T03:44:08.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BsonCollectionAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Extensions\\BsonCollectionAttribute.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Extensions\\BsonCollectionAttribute.cs",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Extensions\\BsonCollectionAttribute.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Extensions\\BsonCollectionAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:22:25.911Z",
+              "DocumentIndex": 23,
+              "Title": "Basket.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\Basket.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.Api\\Basket.Api.csproj",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\Basket.Api.csproj",
+              "RelativeToolTip": "src\\Services\\Basket.Api\\Basket.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T09:26:09.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PagedList.cs",
-              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Models\\PagedList.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\Models\\PagedList.cs",
-              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Models\\PagedList.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Common\\Models\\PagedList.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "HangfireSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Shared\\Configurations\\HangfireSettings.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Configurations\\HangfireSettings.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Shared\\Configurations\\HangfireSettings.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Configurations\\HangfireSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T02:49:19.757Z",
+              "WhenOpened": "2024-11-18T02:58:52.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
+              "Title": "StockItemGrpcService.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\GrpcServices\\StockItemGrpcService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.Api\\GrpcServices\\StockItemGrpcService.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\GrpcServices\\StockItemGrpcService.cs",
+              "RelativeToolTip": "src\\Services\\Basket.Api\\GrpcServices\\StockItemGrpcService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:29:57.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "stock.proto",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\Proton\\stock.proto",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.Api\\Proton\\stock.proto",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Basket.Api\\Proton\\stock.proto",
+              "RelativeToolTip": "src\\Services\\Basket.Api\\Proton\\stock.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-11-14T09:51:52.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "DatabaseSettings.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Shared\\Configurations\\DatabaseSettings.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Configurations\\DatabaseSettings.cs",
@@ -329,7 +557,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 32,
+              "Title": "InventoryDbSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Persistence\\InventoryDbSeed.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Persistence\\InventoryDbSeed.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Persistence\\InventoryDbSeed.cs",
+              "RelativeToolTip": "src\\Services\\Inventory.Api\\Persistence\\InventoryDbSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:13:40.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Shared\\Configurations\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Configurations\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Shared\\Configurations\\MongoDbSettings.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Configurations\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:00:52.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MongoDbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\MongoDbRepository.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\MongoDbRepository.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\MongoDbRepository.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\MongoDbRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:52:10.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InventoryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Entities\\InventoryEntry.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Entities\\InventoryEntry.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Entities\\InventoryEntry.cs",
+              "RelativeToolTip": "src\\Services\\Inventory.Api\\Entities\\InventoryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:48:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BsonCollectionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Extensions\\BsonCollectionAttribute.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Extensions\\BsonCollectionAttribute.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Extensions\\BsonCollectionAttribute.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Extensions\\BsonCollectionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:22:25.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Models\\PagedList.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\Models\\PagedList.cs",
+              "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Models\\PagedList.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Common\\Models\\PagedList.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:49:19.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "RepositoryBaseAsync.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\RepositoryBaseAsync.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\RepositoryBaseAsync.cs",
@@ -342,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "IMongoDbRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Contracts\\Domain\\Intefaces\\IMongoDbRepositoryBase.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Domain\\Intefaces\\IMongoDbRepositoryBase.cs",
@@ -355,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "MongoEntity.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Contracts\\Domain\\MongoEntity.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Domain\\MongoEntity.cs",
@@ -368,20 +674,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "InventoryService.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Services\\InventoryService.cs",
               "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Services\\InventoryService.cs",
               "ToolTip": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Services\\InventoryService.cs",
               "RelativeToolTip": "src\\Services\\Inventory.Api\\Services\\InventoryService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:26:37.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 38,
               "Title": "RepositoryQueryBase.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\RepositoryQueryBase.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\Repositories\\RepositoryQueryBase.cs",
@@ -394,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 35,
               "Title": "IInventoryService.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Services\\Interfaces\\IInventoryService.cs",
               "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Services\\Interfaces\\IInventoryService.cs",
@@ -407,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 39,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Product.Api\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "src\\Services\\Product.Api\\Extensions\\ServiceExtensions.cs",
@@ -420,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Product.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Services\\Product.Api\\appsettings.json",
@@ -433,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 41,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Properties\\launchSettings.json",
@@ -446,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 42,
               "Title": "InventoryController.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Inventory.Api\\Controllers\\InventoryController.cs",
               "RelativeDocumentMoniker": "src\\Services\\Inventory.Api\\Controllers\\InventoryController.cs",
@@ -459,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "MetaData.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Shared\\SeedWork\\MetaData.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\SeedWork\\MetaData.cs",
@@ -472,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "MongoCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Extensions\\MongoCollectionExtensions.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Extensions\\MongoCollectionExtensions.cs",

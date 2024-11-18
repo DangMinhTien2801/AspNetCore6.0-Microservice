@@ -53,6 +53,13 @@ services:
     volumes:
       - mongo_data_msv:/data/db
 
+  hangfiredb:
+    container_name: hangfiredb
+    ports:
+      - "27018:27017"
+    volumes:
+      - hangfire_mongo_data_msv:/data/db
+
   #infrastructure section
   
   rabbitmq:

@@ -14,6 +14,8 @@ using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Customer.Api.Controllers;
 using Infrastructure.Common.Repositories;
+using Customer.Api.Extensions;
+using Infrastructure.Scheduled.Jobs;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Host.UseSerilog(Serilogger.Configure);
@@ -22,23 +24,17 @@ Log.Information("Start Customer API up");
 try
 {
     // Add services to the container.
-
+    builder.Services.AddConfigurationSettings(builder.Configuration);
     builder.Services.AddControllers();
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
 
-    var connectionString = builder.Configuration.GetConnectionString("DefaultConnectionString");
-    builder.Services.AddDbContext<CustomerContext>(options =>
-    {
-        options.UseNpgsql(connectionString ??
-            "Server=localhost;Port=5432;Database=CustomerDb;User Id=admin;Password=TienHaui@1234");
-    });
+    builder.Services.ConfigureCustomerContext();
     // đăng ký DI
-    builder.Services.AddScoped(typeof(IRepositoryBaseAsync<,,>), typeof(RepositoryBaseAsync<,,>))
-                .AddScoped(typeof(IUnitOfWork<>), typeof(UnitOfWork<>))
-                .AddScoped<ICustomerRepository, CustomerRepository>()
-                .AddScoped<ICustomerService, CustomerService>();
+    builder.Services.AddInfrastructureServices();
+    // đăng ký hangfire
+    builder.Services.AddHangfireService();
     // đăng ký mapper
     builder.Services.AddAutoMapper(cfg => cfg.AddProfile(new MappingProfile()));
     var app = builder.Build();
@@ -53,6 +49,8 @@ try
     app.UseHttpsRedirection();
 
     app.UseAuthorization();
+
+    app.UseHangfireDashboard(app.Configuration);
 
     app.MapControllers();
 
