@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "ContainingType": "Hangfire.Api.Controllers.ScheduledJobsController",
+    "Method": "SendReminderCheckoutOrderEmail",
+    "RelativePath": "api/scheduled-jobs/send-email-reminder-checkout-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Shared.DTOs.ScheduledJob.ReminderCheckoutOrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hangfire.Api.Controllers.WelcomeController",
+    "Method": "ConfirmedWelcome",
+    "RelativePath": "api/Welcome/ConfirmedWelcome",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hangfire.Api.Controllers.WelcomeController",
+    "Method": "DelayWelcome",
+    "RelativePath": "api/Welcome/DelayWelcome",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hangfire.Api.Controllers.WelcomeController",
+    "Method": "Welcome",
+    "RelativePath": "api/Welcome/Welcome",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hangfire.Api.Controllers.WelcomeController",
+    "Method": "WelcomeAt",
+    "RelativePath": "api/Welcome/WelcomeAt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

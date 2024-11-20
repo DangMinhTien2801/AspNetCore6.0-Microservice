@@ -3,6 +3,7 @@
     public class Cart
     {
         public string UserName { get; set; } = null!;
+        public string EmailAddress { get; set; } = null!;
         public List<CartItem> Items { get; set; } = new();
         public Cart()
         {
@@ -18,5 +19,7 @@
                 return Items.Sum(i => i.ItemPrice * i.Quantity);
             }
         }
+        public DateTimeOffset LastModifiedDate { get; set; } = DateTimeOffset.UtcNow;
+        public string? JobId { get; set; }
     }
 }

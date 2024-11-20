@@ -211,3 +211,6 @@ C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Micro
 C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Services\Hangfire.Api\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
 C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Services\Hangfire.Api\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
 C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Services\Hangfire.Api\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Services\Hangfire.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Services\Hangfire.Api\bin\Debug\net6.0\Hangfire.PostgreSql.dll
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Services\Hangfire.Api\bin\Debug\net6.0\Npgsql.dll

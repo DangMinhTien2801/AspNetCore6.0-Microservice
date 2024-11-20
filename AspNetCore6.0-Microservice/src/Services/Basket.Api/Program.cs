@@ -21,6 +21,7 @@ try
     });
 
     builder.Services.ConfigureServices();
+    builder.Services.ConfigureHttpClientService();
     builder.Services.AddControllers();
     builder.Services.ConfigureRedis(builder.Configuration);
     builder.Services.AddConfigurationSettings(builder.Configuration);

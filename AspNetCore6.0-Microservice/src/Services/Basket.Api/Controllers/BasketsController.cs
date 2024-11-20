@@ -1,10 +1,13 @@
 ﻿using AutoMapper;
 using Basket.Api.Entities;
 using Basket.Api.Repositories.Interfaces;
+using Basket.Api.Services;
+using Basket.Api.Services.Interfaces;
 using EventBus.Messages.IntegrationEvents.Events;
 using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Distributed;
+using Serilog;
 using System.ComponentModel.DataAnnotations;
 using System.Net;
 
@@ -17,14 +20,23 @@ namespace Basket.Api.Controllers
         private readonly IBasketRepository _basketRepository;
         private readonly IPublishEndpoint _publishEndpoint;
         private readonly IMapper _mapper;
+        private readonly Serilog.ILogger _logger;
+        private readonly BackgroundJobHttpService _backgroundJobHttp;
+        private readonly IEmailTemplateService _emailTemplateService;
 
         public BasketsController(IBasketRepository basketRepository,
             IPublishEndpoint publishEndpoint,
-            IMapper mapper)
+            IMapper mapper,
+            Serilog.ILogger logger,
+            BackgroundJobHttpService backgroundJobHttp,
+            IEmailTemplateService emailTemplateService)
         {
             _basketRepository = basketRepository;
             _publishEndpoint = publishEndpoint;
             _mapper = mapper;
+            _logger = logger;
+            _backgroundJobHttp = backgroundJobHttp;
+            _emailTemplateService = emailTemplateService;
         }
         [HttpGet("{username}", Name = "GetBasket")]
         [ProducesResponseType(typeof(Cart), (int)HttpStatusCode.OK)]
