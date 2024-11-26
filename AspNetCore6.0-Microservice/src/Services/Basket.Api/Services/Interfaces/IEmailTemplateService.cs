@@ -2,7 +2,7 @@
 {
     public interface IEmailTemplateService
     {
-        string GenerateReminderCheckoutOrderEmail(string userName, string checkoutUrl = "basket/checkout");
+        string GenerateReminderCheckoutOrderEmail(string userName, string checkoutUrl = "baskets");
         //string GenerateConfirmedCheckoutOrderEmail(string email, string userName);
     }
 }
