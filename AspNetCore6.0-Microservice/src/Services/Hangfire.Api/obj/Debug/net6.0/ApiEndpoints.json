@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "Hangfire.Api.Controllers.ScheduledJobsController",
+    "Method": "DeleteJobId",
+    "RelativePath": "api/scheduled-jobs/delete/jobId/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hangfire.Api.Controllers.ScheduledJobsController",
     "Method": "SendReminderCheckoutOrderEmail",
     "RelativePath": "api/scheduled-jobs/send-email-reminder-checkout-order",
     "HttpMethod": "POST",

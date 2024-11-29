@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xfcwRF1Rmgg=",
+  "dgSpecHash": "dO63PeeAMkQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Hangfire.Api\\Hangfire.Api.csproj",
   "expectedPackageFiles": [
@@ -47,6 +47,7 @@
     "C:\\Users\\Admn\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\mimekit\\4.7.1\\mimekit.4.7.1.nupkg.sha512",

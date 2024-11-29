@@ -18,14 +18,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "cart",
-        "Type": "Basket.Api.Entities.Cart",
+        "Name": "model",
+        "Type": "Shared.DTOs.Basket.CartDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Basket.Api.Entities.Cart",
+        "Type": "Shared.DTOs.Basket.CartDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -52,7 +52,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Basket.Api.Entities.Cart",
+        "Type": "Shared.DTOs.Basket.CartDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

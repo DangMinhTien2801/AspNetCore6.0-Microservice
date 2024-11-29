@@ -8,6 +8,7 @@ using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Distributed;
 using Serilog;
+using Shared.DTOs.Basket;
 using System.ComponentModel.DataAnnotations;
 using System.Net;
 
@@ -39,23 +40,27 @@ namespace Basket.Api.Controllers
             _emailTemplateService = emailTemplateService;
         }
         [HttpGet("{username}", Name = "GetBasket")]
-        [ProducesResponseType(typeof(Cart), (int)HttpStatusCode.OK)]
+        [ProducesResponseType(typeof(CartDto), (int)HttpStatusCode.OK)]
         public async Task<IActionResult> GetBasketByUserName([Required]string username)
         {
-            var result = await _basketRepository.GetBasketByUserName(username);
-            return Ok(result ?? new Cart());
+            var cart = await _basketRepository.GetBasketByUserName(username);
+            var result = _mapper.Map<CartDto>(cart) ?? new CartDto(username);
+
+            return Ok(result);
         }
 
         [HttpPost(Name = "UpdateBasket")]
-        [ProducesResponseType(typeof(Cart), (int)HttpStatusCode.OK)]
-        public async Task<IActionResult> UpdateBasket([FromBody] Cart cart)
+        [ProducesResponseType(typeof(CartDto), (int)HttpStatusCode.OK)]
+        public async Task<IActionResult> UpdateBasket([FromBody] CartDto model)
         {
             var options = new DistributedCacheEntryOptions()
                 .SetAbsoluteExpiration(DateTimeOffset.UtcNow.AddHours(1))
                 .SetSlidingExpiration(TimeSpan.FromMinutes(5));
 
-            var result = await _basketRepository.UpdateBasket(cart, options);
-           return Ok(result);
+            var cart = _mapper.Map<Cart>(model);
+            var updateCart = await _basketRepository.UpdateBasket(cart, options);
+            var result = _mapper.Map<CartDto>(updateCart);
+            return Ok(result);
         }
 
         [HttpDelete("{username}", Name = "Delete Basket")]

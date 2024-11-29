@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ee2a8bbf-d5f6-4c66-9535-c2864d0b3b6e")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hangfire.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc480c31c10d086c9901fb5e56d6078147b907f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c6f0488d3e4ed6e30ed55e183540b745ca61838")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hangfire.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hangfire.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
