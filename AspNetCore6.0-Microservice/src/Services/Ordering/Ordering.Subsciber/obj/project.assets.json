@@ -129,11 +129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Ordering\\Ordering.Subsciber\\Ordering.Subsciber.csproj",
+      "projectUniqueName": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Ordering\\Ordering.Subsciber\\Ordering.Subsciber.csproj",
       "projectName": "Ordering.Subsciber",
-      "projectPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Ordering\\Ordering.Subsciber\\Ordering.Subsciber.csproj",
+      "projectPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Ordering\\Ordering.Subsciber\\Ordering.Subsciber.csproj",
       "packagesPath": "C:\\Users\\Admn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Ordering\\Ordering.Subsciber\\obj\\",
+      "outputPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Ordering\\Ordering.Subsciber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

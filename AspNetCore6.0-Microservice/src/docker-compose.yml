@@ -62,10 +62,16 @@ services:
         dockerfile: Services/Ordering/Ordering.Api/Dockerfile
 
   apigw.ocelot:
-    image: ${DOCKER_REGISTRY-}apigw-ocelot:${PLATFORM:-linux}-${TAG:-latest} 
+    image: ${DOCKER_REGISTRY-}apigw-ocelot:${PLATFORM:-linux}-${TAG:-latest}
     build:
         context: .
         dockerfile: ApiGateways/OcelotApiGw/Dockerfile
+
+  hangfire.api:
+    image: ${DOCKER_REGISTRY-}hang-api:${PLATFORM:-linux}-${TAG:-latest} 
+    build:
+        context: .
+        dockerfile: Services/Hangfire.Api/Dockerfile
   
 #network section
 networks:

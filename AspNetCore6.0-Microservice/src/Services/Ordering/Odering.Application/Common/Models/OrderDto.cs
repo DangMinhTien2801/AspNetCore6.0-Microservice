@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Odering.Application.Common.Mappings;
 using Ordering.Domain.Entities;
-using Ordering.Domain.Enums;
+using Shared.Enum.Order;
 using System;
 using System.Collections.Generic;
 using System.Linq;

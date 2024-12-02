@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vdcx4PEoEOQ=",
+  "dgSpecHash": "sYCzH+VGqZE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Customer.Api.csproj",
+  "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Customer.Api\\Customer.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admn\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fx7xXy9hPsY=",
+  "dgSpecHash": "Z5Rftlkapi4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admn\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",

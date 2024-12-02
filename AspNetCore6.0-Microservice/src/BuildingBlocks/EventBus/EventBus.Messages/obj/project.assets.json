@@ -992,11 +992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\EventBus\\EventBus.Messages\\EventBus.Messages.csproj",
+      "projectUniqueName": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\EventBus\\EventBus.Messages\\EventBus.Messages.csproj",
       "projectName": "EventBus.Messages",
-      "projectPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\EventBus\\EventBus.Messages\\EventBus.Messages.csproj",
+      "projectPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\EventBus\\EventBus.Messages\\EventBus.Messages.csproj",
       "packagesPath": "C:\\Users\\Admn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\EventBus\\EventBus.Messages\\obj\\",
+      "outputPath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\BuildingBlocks\\EventBus\\EventBus.Messages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

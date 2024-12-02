@@ -69,11 +69,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordering.Domain", "src\Serv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordering.Infrastructure", "src\Services\Ordering\Ordering.Infrastructure\Ordering.Infrastructure.csproj", "{A3DD645B-737D-4887-8B8B-BCFD80908968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Subsciber", "src\Services\Ordering\Ordering.Subsciber\Ordering.Subsciber.csproj", "{CFC44791-D4AD-43CD-A799-A5598975B7C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordering.Subsciber", "src\Services\Ordering\Ordering.Subsciber\Ordering.Subsciber.csproj", "{CFC44791-D4AD-43CD-A799-A5598975B7C6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBus", "EventBus", "{2B48D1A4-DF46-47EB-9606-C7561B621B72}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus.Messages", "src\BuildingBlocks\EventBus\EventBus.Messages\EventBus.Messages.csproj", "{B82624C2-5431-4C68-A02C-F09E990B67C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Saga.Orchestrator", "Saga.Orchestrator", "{68D9343B-417A-4E1C-B1C9-329EA6412FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saga.Orchestrator", "src\Saga.Orchestrator\Saga.Orchestrator\Saga.Orchestrator.csproj", "{5FC794BB-8C78-4EE6-A4C4-B8A4EFF16FC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,10 @@ Global
 		{B82624C2-5431-4C68-A02C-F09E990B67C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82624C2-5431-4C68-A02C-F09E990B67C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82624C2-5431-4C68-A02C-F09E990B67C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC794BB-8C78-4EE6-A4C4-B8A4EFF16FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC794BB-8C78-4EE6-A4C4-B8A4EFF16FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC794BB-8C78-4EE6-A4C4-B8A4EFF16FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC794BB-8C78-4EE6-A4C4-B8A4EFF16FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -188,6 +196,8 @@ Global
 		{CFC44791-D4AD-43CD-A799-A5598975B7C6} = {0A332EF8-745B-4176-AFAD-E44875C63AF2}
 		{2B48D1A4-DF46-47EB-9606-C7561B621B72} = {C30211FA-29DC-4915-8742-52548428C393}
 		{B82624C2-5431-4C68-A02C-F09E990B67C8} = {2B48D1A4-DF46-47EB-9606-C7561B621B72}
+		{68D9343B-417A-4E1C-B1C9-329EA6412FEA} = {04072234-7FB9-4AEB-81D0-68BC06344FF1}
+		{5FC794BB-8C78-4EE6-A4C4-B8A4EFF16FC7} = {68D9343B-417A-4E1C-B1C9-329EA6412FEA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {647839EF-A1F2-4585-A442-FA772FFE3FDA}

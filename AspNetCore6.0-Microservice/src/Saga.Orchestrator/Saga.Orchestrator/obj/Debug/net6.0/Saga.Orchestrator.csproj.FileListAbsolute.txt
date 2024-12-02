@@ -1,0 +1,7 @@
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.AssemblyInfo.cs
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.MvcApplicationPartsAssemblyInfo.cache

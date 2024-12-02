@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q1xorQ0eli8=",
+  "dgSpecHash": "vyAr+gB0Yts=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Ordering\\Ordering.Subsciber\\Ordering.Subsciber.csproj",
+  "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\Services\\Ordering\\Ordering.Subsciber\\Ordering.Subsciber.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admn\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

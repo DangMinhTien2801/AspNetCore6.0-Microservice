@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Ordering.Domain.Entities;
-using Ordering.Domain.Enums;
+using Shared.Enum.Order;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -4,6 +4,7 @@ using MediatR;
 using Odering.Application.Common.Mappings;
 using Odering.Application.Features.V1.Orders.Common;
 using Ordering.Domain.Entities;
+using Shared.DTOs.Order;
 using Shared.SeedWork;
 
 namespace Odering.Application.Features.V1.Orders.Commands.CreateOrder
@@ -17,6 +18,8 @@ namespace Odering.Application.Features.V1.Orders.Commands.CreateOrder
         public string UserName { get; set; } = null!;
         public void Mapping(Profile profile)
         {
+            profile.CreateMap<CreateOrderDto, CreateOrderCommand>();
+
             profile.CreateMap<CreateOrderCommand, Order>().ReverseMap();
             profile.CreateMap<CreateOrderCommand, BasketCheckoutEvent>().ReverseMap();
         }

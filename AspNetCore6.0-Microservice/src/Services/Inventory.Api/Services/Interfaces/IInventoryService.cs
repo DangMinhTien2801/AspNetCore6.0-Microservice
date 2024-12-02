@@ -11,5 +11,6 @@ namespace Inventory.Api.Services.Interfaces
         Task<PagedList<InventoryEntryDTO>> GetAllByItemNoPagingAsync(GetInventoryPagingQuery query);
         Task<InventoryEntryDTO> GetByIdAsync(string id);
         Task<InventoryEntryDTO> PurchaseItemAsync(string itemNo, PurchaseProductDto model);
+        Task<InventoryEntryDTO> SalesItemAsync(string itemNo, SalesProductDto model);
     }
 }

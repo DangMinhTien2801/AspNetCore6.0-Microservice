@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dEvhFO2jpaE=",
+  "dgSpecHash": "4CQeMzGq5PU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\ApiGateways\\OcelotApiGw\\OcelotApiGw.csproj",
+  "projectFilePath": "C:\\Users\\Admn\\Documents\\Wordspace\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\AspNetCore6.0-Microservice\\src\\ApiGateways\\OcelotApiGw\\OcelotApiGw.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admn\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Admn\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

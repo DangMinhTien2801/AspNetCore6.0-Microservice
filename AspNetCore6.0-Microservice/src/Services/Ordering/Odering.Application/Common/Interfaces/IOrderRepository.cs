@@ -11,6 +11,7 @@ namespace Odering.Application.Common.Interfaces
     public interface IOrderRepository : IRepositoryBaseAsync<Order, string>
     {
         Task<IEnumerable<Order>> GetOrderByUserName(string userName);
+        Task<Order?> GetOrderByDocumentNo(string documentNo);
         Task<Order> CreateOrder(Order order);
         Task<Order> UpdateOrderAsync(Order order);
     }

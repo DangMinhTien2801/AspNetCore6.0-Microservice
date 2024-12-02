@@ -14,7 +14,7 @@ using System.Net;
 
 namespace Basket.Api.Controllers
 {
-    [Route("api/v1/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class BasketsController : ControllerBase
     {
