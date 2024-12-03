@@ -16,7 +16,7 @@ namespace Saga.Orchestrator.HttpRepository
         public async Task<string?> CreateOrder(CreateOrderDto orrder)
         {
             var response = await _client.PostAsJsonAsync("orders", orrder);
-            if (response.EnsureSuccessStatusCode().IsSuccessStatusCode)
+            if (!response.EnsureSuccessStatusCode().IsSuccessStatusCode)
             {
                 return null;
             }

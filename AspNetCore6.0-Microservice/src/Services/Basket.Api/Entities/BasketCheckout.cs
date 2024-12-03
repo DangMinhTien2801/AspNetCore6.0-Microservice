@@ -8,6 +8,11 @@
         public string LastName { get; set; } = null!;
         public string EmailAddress { get; set; } = null!;
         public string ShippingAddress { get; set; } = null!;
-        public string InvoiceAddress { get; set; } = null!;
+        private string _invoiceAddress;
+        public string InvoiceAddress
+        {
+            get => _invoiceAddress;
+            set => _invoiceAddress = value ?? ShippingAddress;
+        }
     }
 }

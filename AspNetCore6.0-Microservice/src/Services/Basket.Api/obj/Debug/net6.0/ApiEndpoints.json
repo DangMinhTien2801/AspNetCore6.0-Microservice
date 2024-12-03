@@ -12,7 +12,7 @@
   {
     "ContainingType": "Basket.Api.Controllers.BasketsController",
     "Method": "UpdateBasket",
-    "RelativePath": "baskets",
+    "RelativePath": "api/baskets",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -39,7 +39,7 @@
   {
     "ContainingType": "Basket.Api.Controllers.BasketsController",
     "Method": "GetBasketByUserName",
-    "RelativePath": "baskets/{username}",
+    "RelativePath": "api/baskets/{username}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -66,7 +66,7 @@
   {
     "ContainingType": "Basket.Api.Controllers.BasketsController",
     "Method": "DeleteBasket",
-    "RelativePath": "baskets/{username}",
+    "RelativePath": "api/baskets/{username}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -93,7 +93,7 @@
   {
     "ContainingType": "Basket.Api.Controllers.BasketsController",
     "Method": "Checkout",
-    "RelativePath": "baskets/checkout",
+    "RelativePath": "api/baskets/checkout",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

@@ -20,7 +20,8 @@ namespace Inventory.Api.Services
             IMapper mapper) : base(client, settings)
         {
             _mapper = mapper;   
-        }
+        }     
+
         public async Task<IEnumerable<InventoryEntryDTO>> GetAllByItemNoAsync(string itemNo)
         {
             var entities = await FindAll().Find(x => x.ItemNo.Equals(itemNo)).ToListAsync();
@@ -56,33 +57,37 @@ namespace Inventory.Api.Services
 
         public async Task<InventoryEntryDTO> PurchaseItemAsync(string itemNo, PurchaseProductDto model)
         {
-            var entity = new InventoryEntry(ObjectId.GenerateNewId().ToString())
+            var itemToAdd = new InventoryEntry(ObjectId.GenerateNewId().ToString())
             {
                 ItemNo = model.ItemNo,
                 Quantity = model.Quantity,
                 DocumentType = model.DocumentType,
             };
-            await CreateAsync(entity);
-            var result = _mapper.Map<InventoryEntryDTO>(entity);
+            await CreateAsync(itemToAdd);
+            var result = _mapper.Map<InventoryEntryDTO>(itemToAdd);
 
             return result;
         }
 
         public async Task<InventoryEntryDTO> SalesItemAsync(string itemNo, SalesProductDto model)
         {
-            var itemToAdd = new InventoryEntry(ObjectId.GenerateNewId().ToString())
+            var itemToAdd = new InventoryEntry(ObjectId.GenerateNewId().ToString())   
             {
                 ItemNo = itemNo,
                 ExternalDocumentNo = model.ExternalDocumentNo,
                 Quantity = model.quantity * -1,
                 DocumentType = model.DocumentType
             };
-
-            var entity = _mapper.Map<InventoryEntry>(itemToAdd);
-            await CreateAsync(entity);
-            var result = _mapper.Map<InventoryEntryDTO>(entity);
+            await CreateAsync(itemToAdd);
+            var result = _mapper.Map<InventoryEntryDTO>(itemToAdd);
 
             return result;
+        }
+
+        public async Task DeleteByDocumentNoAsync(string documentNo)
+        {
+            FilterDefinition<InventoryEntry> filter = Builders<InventoryEntry>.Filter.Eq(s => s.DocumentNo, documentNo);
+            await Collection.DeleteOneAsync(filter);
         }
     }
 }
