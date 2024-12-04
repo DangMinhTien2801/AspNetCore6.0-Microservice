@@ -9,7 +9,7 @@ namespace Shared.DTOs.Order
 {
     public class OrderDto
     {
-        public long Id {  get; set; }
+        public string Id {  get; set; }
         public string DocumentNo { get; set; }
         public string UserName { get; set; }
         public decimal TotalPrice { get; set; }

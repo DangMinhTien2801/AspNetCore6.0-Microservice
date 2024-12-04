@@ -20,7 +20,7 @@ using System.Net;
 
 namespace Ordering.Api.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/v1/[controller]")]
     [ApiController]
     public class OrdersController : ControllerBase
     {

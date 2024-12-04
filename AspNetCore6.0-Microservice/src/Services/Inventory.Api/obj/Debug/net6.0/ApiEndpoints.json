@@ -158,5 +158,37 @@
       }
     ],
     "EndpointName": "PurchaseOrder"
+  },
+  {
+    "ContainingType": "Inventory.Api.Controllers.InventoryController",
+    "Method": "SalesOrder",
+    "RelativePath": "api/inventory/sales/{itemNo}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itemNo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "Shared.DTOs.Inventory.SalesProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Shared.DTOs.Inventory.InventoryEntryDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "SalesOrder"
   }
 ]

@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "Saga.Orchestrator.Controllers.CheckoutController",
+    "Method": "CheckoutOrder",
+    "RelativePath": "api/checkout/{username}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "Shared.DTOs.Basket.BasketCheckoutDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Saga.Orchestrator.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -12,7 +12,7 @@
   {
     "ContainingType": "Ordering.Api.Controllers.OrdersController",
     "Method": "TestEmail",
-    "RelativePath": "Orders",
+    "RelativePath": "api/v1/Orders",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "Ordering.Api.Controllers.OrdersController",
     "Method": "CreateOrder",
-    "RelativePath": "Orders",
+    "RelativePath": "api/v1/Orders",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -38,7 +38,7 @@
   {
     "ContainingType": "Ordering.Api.Controllers.OrdersController",
     "Method": "DeleteOrder",
-    "RelativePath": "Orders",
+    "RelativePath": "api/v1/Orders",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -54,7 +54,7 @@
   {
     "ContainingType": "Ordering.Api.Controllers.OrdersController",
     "Method": "DeleteOrderByDocumentNo",
-    "RelativePath": "Orders/document-no/{documentNo}",
+    "RelativePath": "api/v1/Orders/document-no/{documentNo}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -80,7 +80,7 @@
   {
     "ContainingType": "Ordering.Api.Controllers.OrdersController",
     "Method": "GetOrderById",
-    "RelativePath": "Orders/GetOrderById/{id}",
+    "RelativePath": "api/v1/Orders/GetOrderById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -107,7 +107,7 @@
   {
     "ContainingType": "Ordering.Api.Controllers.OrdersController",
     "Method": "GetOrderByUserName",
-    "RelativePath": "Orders/GetOrderByUserName/{username}",
+    "RelativePath": "api/v1/Orders/GetOrderByUserName/{username}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
