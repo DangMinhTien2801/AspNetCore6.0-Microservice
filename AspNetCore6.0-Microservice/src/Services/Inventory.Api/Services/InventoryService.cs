@@ -89,5 +89,24 @@ namespace Inventory.Api.Services
             FilterDefinition<InventoryEntry> filter = Builders<InventoryEntry>.Filter.Eq(s => s.DocumentNo, documentNo);
             await Collection.DeleteOneAsync(filter);
         }
+
+        public async Task<string> SalesOrderAsync(SalesOrderDto model)
+        {
+            var documentNo = Guid.NewGuid().ToString();
+            foreach(var saleItem in model.SaleItems)
+            {
+                var itemToAdd = new InventoryEntry(ObjectId.GenerateNewId().ToString())
+                {
+                    DocumentNo = documentNo,
+                    ItemNo = saleItem.ItemNo,
+                    ExternalDocumentNo = model.OrderNo,
+                    Quantity = saleItem.Quantity * -1,
+                    DocumentType = saleItem.DocumentType
+                };
+                await CreateAsync(itemToAdd);
+            }
+
+            return documentNo;
+        }
     }
 }

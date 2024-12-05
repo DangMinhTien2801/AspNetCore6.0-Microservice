@@ -11,6 +11,11 @@
         OrderGetFailed,
         InventoryUpdated,
         InventoryUpdateFailed,
-        InventoryRollback
+        InventoryRollback,
+        InventoryRollbackFailed,
+        RollbackInventory,
+        BasketDeleted,
+        OrderDeleted,
+        OrderDeletedFailed,
     }
 }

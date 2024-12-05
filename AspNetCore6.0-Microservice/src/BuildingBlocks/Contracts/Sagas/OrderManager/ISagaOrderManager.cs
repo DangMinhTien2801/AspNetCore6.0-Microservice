@@ -10,6 +10,6 @@ namespace Contracts.Sagas.OrderManager
         where TOutput : class
     {
         public TOutput CreateOrder(TInput input);
-        public TOutput RollbackOrder(TInput input);
+        public TOutput RollbackOrder(string userName, string documentNo, string orderId);
     }
 }

@@ -7,5 +7,6 @@ namespace Saga.Orchestrator.HttpRepository.Interfaces
     {
         Task<string> CreateSalesOrder(SalesProductDto model);
         Task<bool> DeleteOrderByDocumentNo(string documentNo);
+        Task<string> CreateOrderSale(string orderNo, SalesOrderDto model);
     }
 }

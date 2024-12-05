@@ -135,3 +135,4 @@ C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Micro
 C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.pdb
 C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\Saga.Orchestrator.genruntimeconfig.cache
 C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\obj\Debug\net6.0\ref\Saga.Orchestrator.dll
+C:\Users\Admn\Documents\Wordspace\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\AspNetCore6.0-Microservice\src\Saga.Orchestrator\Saga.Orchestrator\bin\Debug\net6.0\Stateless.dll

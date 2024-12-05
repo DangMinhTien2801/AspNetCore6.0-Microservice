@@ -70,15 +70,28 @@ namespace Inventory.Api.Controllers
             return NoContent();
         }
 
-        [HttpPost("sales/{itemNo}", Name = "SalesOrder")]
+        [HttpPost("sales/{itemNo}", Name = "SalesItem")]
         [ProducesResponseType(typeof(InventoryEntryDTO), (int)HttpStatusCode.OK)]
-        public async Task<IActionResult> SalesOrder(
+        public async Task<IActionResult> SalesItem(
             [Required] string itemNo,
             [FromBody] SalesProductDto model
             )
         {
             model.SetItemNo(itemNo);
             var result = await _inventoryServices.SalesItemAsync(itemNo, model);
+            return Ok(result);
+        }
+
+        [HttpPost("sales/order-no/{orderNo}", Name = "SalesOrder")]
+        [ProducesResponseType(typeof(CreateSalesOrderSuccessDto), (int)HttpStatusCode.OK)]
+        public async Task<IActionResult> SalesOrder(
+            [Required] string orderNo,
+            [FromBody] SalesOrderDto model
+            )
+        {
+            model.OrderNo = orderNo;
+            var documentNo = await _inventoryServices.SalesOrderAsync(model);
+            var result = new CreateSalesOrderSuccessDto(documentNo);
             return Ok(result);
         }
     }

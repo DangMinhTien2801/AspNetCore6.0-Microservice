@@ -18,7 +18,17 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "Saga.Orchestrator.OrderManager.OrderResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Saga.Orchestrator.Controllers.HomeController",

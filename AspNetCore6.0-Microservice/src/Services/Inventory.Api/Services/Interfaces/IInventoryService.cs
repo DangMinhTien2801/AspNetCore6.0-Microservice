@@ -13,5 +13,6 @@ namespace Inventory.Api.Services.Interfaces
         Task<InventoryEntryDTO> PurchaseItemAsync(string itemNo, PurchaseProductDto model);
         Task<InventoryEntryDTO> SalesItemAsync(string itemNo, SalesProductDto model);
         Task DeleteByDocumentNoAsync(string documentNo);
+        Task<string> SalesOrderAsync(SalesOrderDto model);
     }
 }

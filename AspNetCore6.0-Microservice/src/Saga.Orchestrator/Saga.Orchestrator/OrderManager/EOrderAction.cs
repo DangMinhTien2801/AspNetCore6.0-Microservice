@@ -6,6 +6,9 @@
         CreateOrder,
         GetOrder,
         UpdateInventory,
-        RollbackInventory
+        RollbackInventory,
+        DeleteInventory,
+        DeleteBasket,
+        DeleteOrder
     }
 }

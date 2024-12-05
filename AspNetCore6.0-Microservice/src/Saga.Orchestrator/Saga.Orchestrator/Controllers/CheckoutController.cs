@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Contracts.Sagas.OrderManager;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Saga.Orchestrator.OrderManager;
 using Saga.Orchestrator.Services.Interfaces;
 using Shared.DTOs.Basket;
 
@@ -9,19 +11,20 @@ namespace Saga.Orchestrator.Controllers
     [ApiController]
     public class CheckoutController : ControllerBase
     {
-        private readonly ICheckoutSagaService _checkoutSagaService;
+        private readonly ISagaOrderManager<BasketCheckoutDto, OrderResponse> _sageOrderManager;
 
-        public CheckoutController(ICheckoutSagaService checkoutSagaService)
+        public CheckoutController(ISagaOrderManager<BasketCheckoutDto, OrderResponse> SageOrderManager)
         {
-            _checkoutSagaService = checkoutSagaService;
+            _sageOrderManager = SageOrderManager;
         }
 
         [HttpPost("{username}")]
-        public async Task<IActionResult> CheckoutOrder(string username, 
+        public OrderResponse CheckoutOrder(string username, 
             BasketCheckoutDto model)
         {
-            var result = await _checkoutSagaService.CheckoutOrder(username, model);
-            return Accepted(result);
+            model.UserName = username;
+            var result = _sageOrderManager.CreateOrder(model);
+            return result;
         }
     }
 }

@@ -161,7 +161,7 @@
   },
   {
     "ContainingType": "Inventory.Api.Controllers.InventoryController",
-    "Method": "SalesOrder",
+    "Method": "SalesItem",
     "RelativePath": "api/inventory/sales/{itemNo}",
     "HttpMethod": "POST",
     "IsController": true,
@@ -181,6 +181,38 @@
     "ReturnTypes": [
       {
         "Type": "Shared.DTOs.Inventory.InventoryEntryDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "SalesItem"
+  },
+  {
+    "ContainingType": "Inventory.Api.Controllers.InventoryController",
+    "Method": "SalesOrder",
+    "RelativePath": "api/inventory/sales/order-no/{orderNo}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderNo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "Shared.DTOs.Inventory.SalesOrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Shared.DTOs.Inventory.CreateSalesOrderSuccessDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

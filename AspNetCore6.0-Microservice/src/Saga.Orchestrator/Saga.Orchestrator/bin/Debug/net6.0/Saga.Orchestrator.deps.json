@@ -12,6 +12,7 @@
           "Common.Logging": "1.0.0",
           "Infrastructure": "1.0.0",
           "Shared": "1.0.0",
+          "Stateless": "5.16.0",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
@@ -818,6 +819,14 @@
           "lib/net5.0/StackExchange.Redis.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.2.4.27433"
+          }
+        }
+      },
+      "Stateless/5.16.0": {
+        "runtime": {
+          "lib/netstandard2.0/Stateless.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.16.0.0"
           }
         }
       },
@@ -1636,6 +1645,13 @@
       "sha512": "sha512-wM0OuRyRaZTFndFRjIOvas4jjkeclRJsmNm0eAx5tOju3SQisrLubNaSFT/dBypi4Vh1n7nYc1gWpw9L7ernOg==",
       "path": "stackexchange.redis/2.2.4",
       "hashPath": "stackexchange.redis.2.2.4.nupkg.sha512"
+    },
+    "Stateless/5.16.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oGMd62r6wdj7LDOl7oOD2wJdjjK1Zum5UnV4lTDLdKiJAfAGF1SRaBKpX1TtmP1QKocPy4+94zazSZfHcowZCw==",
+      "path": "stateless/5.16.0",
+      "hashPath": "stateless.5.16.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.5.0": {
       "type": "package",
